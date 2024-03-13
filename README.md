@@ -5,7 +5,10 @@
 
 Dados tres números a, b y c, correspondientes a la longitud de los lados de una figura geométrica, determinar si pueden formar los lados de un triángulo.
 
-## DISEÑO
-
-### Diagrama de flujo
+# analisis
+-variables de entrada
+cuando forma: a+b>c
+cuando no forma:a*c>b
+# diagrama de flujo
 ![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+# construccion
